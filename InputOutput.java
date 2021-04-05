@@ -8,3 +8,4 @@ public class InputOutput{
   nama = scanner.nextLine();
   System.out.println("Hai, "+nama);
  }
+}
